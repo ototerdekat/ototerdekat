@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ototerdekat.my.id/sitemap.xml
